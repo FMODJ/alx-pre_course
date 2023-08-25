@@ -1,1 +1,1 @@
-readme
+Gradually understanding the git concept
